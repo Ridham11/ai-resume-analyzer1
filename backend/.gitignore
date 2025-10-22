@@ -1,0 +1,116 @@
+# ==========================================
+# Node.js Dependencies
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ==========================================
+# Environment Variables (CRITICAL - NEVER COMMIT!)
+# ==========================================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ==========================================
+# Uploaded Files (User Resumes)
+# ==========================================
+uploads/
+uploads/*
+temp/
+temp/*
+
+# ==========================================
+# Logs (Winston creates these)
+# ==========================================
+logs/
+*.log
+combined.log
+error.log
+exceptions.log
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# ==========================================
+# IDE & Editor Files
+# ==========================================
+# VS Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ==========================================
+# Prisma
+# ==========================================
+# Keep schema.prisma but ignore local development database
+*.db
+*.db-journal
+
+# Ignore all migrations except the migration lock
+prisma/migrations/*
+!prisma/migrations/.gitkeep
+!prisma/schema.prisma
+
+# ==========================================
+# Testing
+# ==========================================
+coverage/
+.nyc_output/
+*.lcov
+
+# ==========================================
+# Build & Distribution
+# ==========================================
+dist/
+build/
+*.tgz
+
+# ==========================================
+# Miscellaneous
+# ==========================================
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+.stylelintcache
