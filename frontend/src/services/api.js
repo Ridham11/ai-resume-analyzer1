@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for your backend
-const API_BASE_URL = 'https://ai-resume-analyzer1-3.onrender.com/api';
+const API_BASE_URL = 'https://ai-resume-analyzer1-3.onrender.com';
 
 // Create axios instance with default config
 const api = axios.create({
@@ -41,27 +41,27 @@ api.interceptors.response.use(
 
 // ==================== AUTH APIs ====================
 export const authAPI = {
-  register: (data) => api.post('/auth/register', data),
-  login: (data) => api.post('/auth/login', data),
-  getMe: () => api.get('/auth/me'),
+  register: (data) => api.post('/api/auth/register', data),
+  login: (data) => api.post('/api/auth/login', data),
+  getMe: () => api.get('/api/auth/me'),
 };
 
 // ==================== RESUME APIs ====================
 export const resumeAPI = {
   upload: (formData) => 
-    api.post('/resume/upload', formData, {
+    api.post('/api/resume/upload', formData, {
       headers: { 'Content-Type': 'multipart/form-data' },
     }),
-  getMyResumes: () => api.get('/resume/my-resumes'),
-  getById: (id) => api.get(`/resume/${id}`),
-  delete: (id) => api.delete(`/resume/${id}`),
+  getMyResumes: () => api.get('/api/resume/my-resumes'),
+  getById: (id) => api.get(`/api/resume/${id}`),
+  delete: (id) => api.delete(`/api/resume/${id}`),
 };
 
 // ==================== ANALYSIS APIs ====================
 export const analysisAPI = {
-  atsCheck: (data) => api.post('/analysis/ats-check', data),
-  getHistory: (resumeId) => api.get(`/analysis/history/${resumeId}`),
-  reAnalyze: (resumeId) => api.post(`/analysis/re-analyze/${resumeId}`),
+  atsCheck: (data) => api.post('/api/analysis/ats-check', data),
+  getHistory: (resumeId) => api.get(`/api/analysis/history/${resumeId}`),
+  reAnalyze: (resumeId) => api.post(`/api/analysis/re-analyze/${resumeId}`),
 };
 
 export default api;
