@@ -35,14 +35,14 @@ function Dashboard() {
       const token = localStorage.getItem('token');
 
       // Fetch user info
-      const userResponse = await axios.get('http://localhost:5000/api/auth/me', {
+      const userResponse = await axios.get('https://ai-resume-analyzer1-3.onrender.com/api/auth/me', {
         headers: { Authorization: `Bearer ${token}` },
       });
       setUser(userResponse.data.data.user);
 
       // Fetch all resumes
       const resumesResponse = await axios.get(
-        'http://localhost:5000/api/resume/my-resumes',
+        'https://ai-resume-analyzer1-3.onrender.com/api/resume/my-resumes',
         {
           headers: { Authorization: `Bearer ${token}` },
         }
@@ -92,7 +92,7 @@ function Dashboard() {
     try {
       const token = localStorage.getItem('token');
 
-      await axios.delete(`http://localhost:5000/api/resume/${resumeId}`, {
+      await axios.delete(`https://ai-resume-analyzer1-3.onrender.com/api/resume/${resumeId}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
 

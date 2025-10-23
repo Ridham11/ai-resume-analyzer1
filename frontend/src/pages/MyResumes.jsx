@@ -36,7 +36,7 @@ function MyResumes() {
       const token = localStorage.getItem('token');
 
       const response = await axios.get(
-        'http://localhost:5000/api/resume/my-resumes',
+        'https://ai-resume-analyzer1-3.onrender.com/api/resume/my-resumes',
         {
           headers: { Authorization: `Bearer ${token}` },
         }
@@ -90,7 +90,7 @@ function MyResumes() {
     try {
       const token = localStorage.getItem('token');
 
-      await axios.delete(`http://localhost:5000/api/resume/${resumeId}`, {
+      await axios.delete(`https://ai-resume-analyzer1-3.onrender.com/api/resume/${resumeId}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
 

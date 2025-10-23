@@ -96,7 +96,7 @@ function UploadPage() {
       const token = localStorage.getItem('token');
 
       const response = await axios.post(
-        'http://localhost:5000/api/resume/upload',
+        'https://ai-resume-analyzer1-3.onrender.com/api/resume/upload',
         formData,
         {
           headers: {

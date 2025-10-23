@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for your backend
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://ai-resume-analyzer1-3.onrender.com/api';
 
 // Create axios instance with default config
 const api = axios.create({

@@ -32,7 +32,7 @@ function AnalysisPage() {
       const token = localStorage.getItem('token');
       
       const response = await axios.get(
-        `http://localhost:5000/api/resume/${id}`,
+        `https://ai-resume-analyzer1-3.onrender.com/api/resume/${id}`,
         {
           headers: {
             Authorization: `Bearer ${token}`,

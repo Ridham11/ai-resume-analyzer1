@@ -33,7 +33,7 @@ function ATSCheck() {
     try {
       const token = localStorage.getItem('token');
       const response = await axios.get(
-        'http://localhost:5000/api/resume/my-resumes',
+        'https://ai-resume-analyzer1-3.onrender.com/api/resume/my-resumes',
         {
           headers: { Authorization: `Bearer ${token}` },
         }
@@ -75,7 +75,7 @@ function ATSCheck() {
       const token = localStorage.getItem('token');
 
       const response = await axios.post(
-        'http://localhost:5000/api/analysis/ats-check',
+        'https://ai-resume-analyzer1-3.onrender.com/api/analysis/ats-check',
         {
           resumeId: parseInt(selectedResumeId),
           jobDescription: jobDescription.trim(),
