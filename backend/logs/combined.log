@@ -1231,3 +1231,144 @@
 {"level":"info","message":"ATS compatibility checked successfully (v1 REST)","service":"resume-analyzer","timestamp":"2025-10-22 21:47:10"}
 {"level":"info","message":"ATS check completed with AI","service":"resume-analyzer","timestamp":"2025-10-22 21:47:10"}
 {"atsScore":42,"level":"info","message":"ATS check completed successfully","resumeId":21,"service":"resume-analyzer","timestamp":"2025-10-22 21:47:10"}
+{"level":"info","message":"Server started successfully","service":"resume-analyzer","timestamp":"2025-10-23 00:53:36"}
+{"level":"info","message":"User logged in: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21","userId":2}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21"}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21"}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21"}
+{"count":9,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21","userId":2}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21"}
+{"count":9,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 00:54:21","userId":2}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:24"}
+{"count":9,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 00:54:24","userId":2}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:24"}
+{"count":9,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 00:54:24","userId":2}
+{"level":"debug","message":"User authenticated: ridham123.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 00:54:56"}
+{"level":"info","message":"Starting ATS check","resumeId":19,"service":"resume-analyzer","timestamp":"2025-10-23 00:54:56","userId":2}
+{"level":"info","message":"ATS compatibility checked successfully (v1 REST)","service":"resume-analyzer","timestamp":"2025-10-23 00:55:31"}
+{"level":"info","message":"ATS check completed with AI","service":"resume-analyzer","timestamp":"2025-10-23 00:55:31"}
+{"atsScore":92,"level":"info","message":"ATS check completed successfully","resumeId":19,"service":"resume-analyzer","timestamp":"2025-10-23 00:55:31"}
+{"level":"info","message":"Server started successfully","service":"resume-analyzer","timestamp":"2025-10-23 01:09:40"}
+{"level":"info","message":"Server started successfully","service":"resume-analyzer","timestamp":"2025-10-23 01:44:09"}
+{"level":"info","message":"New user registered: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46","userId":5}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46","userId":5}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 01:44:46","userId":5}
+{"level":"info","message":"Server started successfully","service":"resume-analyzer","timestamp":"2025-10-23 02:17:12"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27","userId":5}
+{"level":"debug","message":"User authenticated: ridham124567.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:17:27","userId":5}
+{"level":"info","message":"User logged in: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22"}
+{"count":0,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:21:22","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:22:07"}
+{"fileName":"Final Resume.pdf","fileSize":81361,"level":"info","message":"Resume upload started","service":"resume-analyzer","timestamp":"2025-10-23 02:22:07","userId":3}
+{"level":"info","message":"File uploaded to Cloudinary","public_id":"resumes/Final-Resume-1761166327965-54356209_vbvgb5.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:22:11","url":"https://res.cloudinary.com/daftc9lwo/raw/upload/v1761166336/resumes/Final-Resume-1761166327965-54356209_vbvgb5.pdf"}
+{"level":"info","message":"File uploaded to Cloudinary","publicId":"resumes/Final-Resume-1761166327965-54356209_vbvgb5.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:22:11","url":"https://res.cloudinary.com/daftc9lwo/raw/upload/v1761166336/resumes/Final-Resume-1761166327965-54356209_vbvgb5.pdf"}
+{"level":"info","message":"Text extracted from PDF","pages":1,"service":"resume-analyzer","textLength":2436,"timestamp":"2025-10-23 02:22:12"}
+{"cleanedLength":2419,"level":"info","message":"Text extracted and cleaned","originalLength":2436,"service":"resume-analyzer","timestamp":"2025-10-23 02:22:12"}
+{"level":"info","message":"Text extracted from resume","service":"resume-analyzer","textLength":2419,"timestamp":"2025-10-23 02:22:12"}
+{"level":"info","message":"Validating if document is a resume...","service":"resume-analyzer","timestamp":"2025-10-23 02:22:12"}
+{"confidence":100,"isResume":true,"level":"info","message":"Resume validation completed","service":"resume-analyzer","timestamp":"2025-10-23 02:22:17"}
+{"confidence":100,"level":"info","message":"Document validated as resume","reason":"The text contains all typical resume/CV sections including personal information, an objective statement, education details, a comprehensive skills section, project experience (which serves as practical experience for students), and certifications.","service":"resume-analyzer","timestamp":"2025-10-23 02:22:17"}
+{"level":"info","message":"Resume analyzed successfully by Gemini (v1 REST)","service":"resume-analyzer","timestamp":"2025-10-23 02:22:40"}
+{"level":"info","message":"AI analysis completed successfully","service":"resume-analyzer","timestamp":"2025-10-23 02:22:40"}
+{"level":"debug","message":"Temporary file deleted: C:\\Users\\ridha\\OneDrive\\Desktop\\AI Resume Analyzer\\backend\\temp\\Final-Resume-1761166327965-54356209.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:22:40"}
+{"level":"info","message":"Resume uploaded and analyzed successfully","resumeId":23,"score":79,"service":"resume-analyzer","timestamp":"2025-10-23 02:22:40","userId":3,"validationConfidence":100}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:22:41"}
+{"level":"info","message":"Fetched resume details","resumeId":23,"service":"resume-analyzer","timestamp":"2025-10-23 02:22:41","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:22:41"}
+{"level":"info","message":"Fetched resume details","resumeId":23,"service":"resume-analyzer","timestamp":"2025-10-23 02:22:41","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:23:23","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:24"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:23:24","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:23:24"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:23:24","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07"}
+{"count":1,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:24:07","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:15"}
+{"fileName":"ishuresume.pdf","fileSize":74510,"level":"info","message":"Resume upload started","service":"resume-analyzer","timestamp":"2025-10-23 02:24:15","userId":3}
+{"level":"info","message":"File uploaded to Cloudinary","public_id":"resumes/ishuresume-1761166455092-490775244_eea76n.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:24:18","url":"https://res.cloudinary.com/daftc9lwo/raw/upload/v1761166463/resumes/ishuresume-1761166455092-490775244_eea76n.pdf"}
+{"level":"info","message":"File uploaded to Cloudinary","publicId":"resumes/ishuresume-1761166455092-490775244_eea76n.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:24:18","url":"https://res.cloudinary.com/daftc9lwo/raw/upload/v1761166463/resumes/ishuresume-1761166455092-490775244_eea76n.pdf"}
+{"level":"info","message":"Text extracted from PDF","pages":1,"service":"resume-analyzer","textLength":1555,"timestamp":"2025-10-23 02:24:18"}
+{"cleanedLength":1553,"level":"info","message":"Text extracted and cleaned","originalLength":1555,"service":"resume-analyzer","timestamp":"2025-10-23 02:24:18"}
+{"level":"info","message":"Text extracted from resume","service":"resume-analyzer","textLength":1553,"timestamp":"2025-10-23 02:24:18"}
+{"level":"info","message":"Validating if document is a resume...","service":"resume-analyzer","timestamp":"2025-10-23 02:24:18"}
+{"confidence":98,"isResume":true,"level":"info","message":"Resume validation completed","service":"resume-analyzer","timestamp":"2025-10-23 02:24:24"}
+{"confidence":98,"level":"info","message":"Document validated as resume","reason":"The text contains all the essential components of a resume/CV, including personal contact information, education history, a detailed skills section, projects with descriptions, an internship experience, and certifications. While it lacks an explicit professional summary or objective, the overall structure and content strongly indicate it is a resume.","service":"resume-analyzer","timestamp":"2025-10-23 02:24:24"}
+{"level":"info","message":"Resume analyzed successfully by Gemini (v1 REST)","service":"resume-analyzer","timestamp":"2025-10-23 02:24:46"}
+{"level":"info","message":"AI analysis completed successfully","service":"resume-analyzer","timestamp":"2025-10-23 02:24:46"}
+{"level":"debug","message":"Temporary file deleted: C:\\Users\\ridha\\OneDrive\\Desktop\\AI Resume Analyzer\\backend\\temp\\ishuresume-1761166455092-490775244.pdf","service":"resume-analyzer","timestamp":"2025-10-23 02:24:46"}
+{"level":"info","message":"Resume uploaded and analyzed successfully","resumeId":24,"score":78,"service":"resume-analyzer","timestamp":"2025-10-23 02:24:46","userId":3,"validationConfidence":98}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:47"}
+{"level":"info","message":"Fetched resume details","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:24:47","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:24:47"}
+{"level":"info","message":"Fetched resume details","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:24:47","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:25:43","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:02"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:02","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:02"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:02","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:14"}
+{"level":"info","message":"Fetched resume details","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:26:14","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:14"}
+{"level":"info","message":"Fetched resume details","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:26:14","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:16"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:16","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:16"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:16","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:18","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:19"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:19","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:19"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:26:19","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:26:25"}
+{"level":"info","message":"Starting ATS check","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:26:25","userId":3}
+{"level":"info","message":"ATS compatibility checked successfully (v1 REST)","service":"resume-analyzer","timestamp":"2025-10-23 02:26:49"}
+{"level":"info","message":"ATS check completed with AI","service":"resume-analyzer","timestamp":"2025-10-23 02:26:49"}
+{"atsScore":78,"level":"info","message":"ATS check completed successfully","resumeId":24,"service":"resume-analyzer","timestamp":"2025-10-23 02:26:49"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:27:07","userId":3}
+{"level":"info","message":"User logged in: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:29:34","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:29:34"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:29:34"}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:29:34"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:29:35","userId":3}
+{"level":"debug","message":"User authenticated: ridham124.mishra@gmail.com","service":"resume-analyzer","timestamp":"2025-10-23 02:29:35"}
+{"count":2,"level":"info","message":"Fetched user resumes","service":"resume-analyzer","timestamp":"2025-10-23 02:29:35","userId":3}
+{"level":"info","message":"Server started successfully","service":"resume-analyzer","timestamp":"2025-10-23 02:35:33"}
